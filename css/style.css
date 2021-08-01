@@ -1,0 +1,242 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	border-bottom: 1px solid #decece;
+}
+.header-part{
+
+width: 90%;
+
+margin-left: 5%;
+
+overflow: hidden;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+nav{
+
+width: 50%;
+
+float: right;
+
+overflow: hidden;
+}
+nav ul{
+
+list-style: none;
+
+overflow: hidden;
+
+float: right;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 20px;
+}
+nav ul li a{
+
+text-decoration: none;
+
+font-size: 20px;
+
+text-transform: capitalize;
+
+color: black;
+}
+.content-section{
+ /* color: red; */
+ width: 70%;
+ margin-left: 15%;
+}
+.content-section h1{
+
+color: #0F2656;
+
+font-size: 45px;
+
+text-align: center;
+
+margin-top: 20px;
+}
+.content-section h2{
+
+text-align: center;
+
+color: #008AFF;
+
+font-size: 45px;
+
+margin-top: 15px;
+}
+.content-section p{
+
+text-align: center;
+
+color: #0F2656;
+
+margin: 10px;
+
+margin: 20px 0;
+}
+.img{
+
+text-align: center;
+
+/* margin: 20px 0; */
+}
+.img img{
+
+width: 50%;
+}
+.project-content{
+
+overflow: hidden;
+}
+.content-left{
+
+width: 48%;
+
+float: left;
+
+/* text-align: right; */
+}
+.content-left h1{
+
+color: #F15767;
+
+text-align: right;
+}
+.content-left p{
+
+text-align: right;
+}
+.content-right{
+
+width: 48%;
+
+float: right;
+}
+.content-right h1{
+
+text-align: left;
+}
+.service{width: 90%;margin-left: 5%;margin-bottom: 50px;margin-top: 50px;overflow: hidden;}
+.service-one{
+
+width: 30%;
+
+float: left;
+
+background: #FDEBED;
+
+text-align: center;
+
+padding: 30px 0;
+}
+.service-one img{
+
+text-align: center;
+
+width: 50%;
+}
+.service-one h3{
+
+text-align: left;
+
+padding: 10px;
+}
+.service-one p{
+
+text-align: left;
+
+padding: 10px;
+
+padding-top: 0;
+}
+.service-two{
+
+width: 30%;
+
+float: left;
+
+margin-left: 5%;
+
+background: #EBF9F4;
+
+text-align: center;
+
+padding: 30px 0;
+}
+.service-two img{
+
+width: 50%;
+}
+.service-two h3{
+
+text-align: left;
+
+padding: 10px;
+}
+.service-two p{
+	
+text-align: left;
+	
+padding: 10px;
+	
+padding-top: 0;
+}
+.service-three{
+
+width: 30%;
+
+float: right;
+
+background: #FFF7E8;
+
+text-align: center;
+
+padding: 30px 0;
+}
+.service-three img{
+
+width: 50%;
+}
+.service-three h3{
+
+text-align: left;
+
+padding: 10px;
+}
+.service-three p{
+	
+text-align: left;
+	
+padding: 10px;
+	
+padding-top: 0;
+}
+footer{text-align: center;background: #008AFF;padding: 30px 0;}
+footer p{
+
+color: #e6dada;
+
+font-size: 18px;
+}
+footer p span{
+
+color: white;
+
+font-size: 20px;
+
+font-weight: 700;
+}
